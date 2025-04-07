@@ -13,4 +13,8 @@ dados = {
     ],
     "Beleza": [
         {"Nome": "@carol.makeup", "Produto": "Base Líquida", "Rede Social": "Instagram", "Link": "https://instagram.com/carol.makeup", "Data": "07/04/2025", "Status": "Novo"},
-        {"Nome": "@dicasdebeleza", "Produto": "Hidratante Facial", "Rede Social": "Instagram", "Link": "https://instagram.com/dicasdebeleza", "Data": "07/04/2025
+        {"Nome": "@dicasdebeleza", "Produto": "Hidratante Facial", "Rede Social": "Instagram", "Link": "https://instagram.com/dicasdebeleza", "Data": "07/04/2025", "Status": "Novo"},
+    ],
+    "Pet": [
+        {"Nome": "@petfeliz", "Produto": "Ração Premium", "Rede Social": "Instagram", "Link": "https://instagram.com/petfeliz", "Data": "07/04/2025", "Status": "Novo"},
+        {"Nome": "petshop_bahia", "Produto": "Areia_
